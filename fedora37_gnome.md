@@ -46,6 +46,7 @@ sudo dnf install gnome-tweaks
 ```
 
 Tweaks > Windows > Disable Attach Modal Dialogues
+Tweaks > Clavier et souris > Comportement de la touche Verr. Maj > Verr. Maj bascule le blocage majuscule
 
 # Add GNOME Extension
 
