@@ -69,4 +69,4 @@ sudo dnf install gnome-extensions-app
 - Gnome 4x UI Improvements
 - Workspace Indicator
 - GNOME Fuzzy App Search
-
+- ArcMenu
